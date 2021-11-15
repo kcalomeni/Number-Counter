@@ -1,1 +1,1 @@
-# Number-Counter
+For this project, I created a program that counts the number of vowels in a file. I also added three extra random letters to the program, which are v, w, and y. The program executes and shows the total number of each given letter in the file.
